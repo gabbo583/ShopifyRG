@@ -1,0 +1,10 @@
+{
+  "description": "This e-commerce platform offers a premium shopping experience for AS Roma fans, featuring modern design, fast performance, and optimized user engagement.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
